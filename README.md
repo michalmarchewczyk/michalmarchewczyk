@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-# My name is Michał
+### My name is Michał
 
-# I'm web developer
+### I'm web developer
