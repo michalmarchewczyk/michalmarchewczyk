@@ -1,5 +1,5 @@
   
-<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="100"/>
+<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="120" align="right"/>
 
 ## Hello! My name is Michał
 
