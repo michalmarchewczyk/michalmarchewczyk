@@ -1,5 +1,5 @@
   
-[<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="120" align="right"/>](https://marchewczyk.eu/)
+[<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="140" align="right"/>](https://marchewczyk.eu/)
 
 ## Hello!&nbsp;My&nbsp;name&nbsp;is&nbsp;Michał
 
@@ -17,4 +17,4 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalmarchewczyk&layout=compact&bg_color=-10,0064C8,00DCFA&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalmarchewczyk&layout=compact&bg_color=50,00DCFA,0064C8&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
