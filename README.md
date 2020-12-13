@@ -1,7 +1,7 @@
   
-<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="120" align="right"/>
+[<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="120" align="right"/>](https://marchewczyk.eu/)
 
-## Hello! My name is Michał
+## Hello!&nbsp;My&nbsp;name&nbsp;is&nbsp;Michał
 
 ### I'm web developer
 
