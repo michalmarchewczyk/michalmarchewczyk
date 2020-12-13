@@ -1,3 +1,6 @@
+  
+<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="100"/>
+
 ## Hello! My name is Michał
 
 ### I'm web developer
