@@ -1,5 +1,5 @@
   
-[<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="140" align="right"/>](https://marchewczyk.eu/)
+[<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" height="140" width="478" align="right"/>](https://marchewczyk.eu/)
 
 ## Hello!&nbsp;My&nbsp;name&nbsp;is&nbsp;Michał
 
