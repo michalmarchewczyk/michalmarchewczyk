@@ -1,7 +1,7 @@
   
 [<img src="https://raw.githubusercontent.com/michalmarchewczyk/michalmarchewczyk/master/images/logotype.png" width="478" align="right"/>](https://marchewczyk.eu/)
 
-## Hello!&nbsp;👋
+# Hello!&nbsp;👋
 
 I'm Michał, a full-stack web developer from Poland.
 
