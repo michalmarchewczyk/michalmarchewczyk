@@ -11,4 +11,4 @@ I'm Michał, a full-stack web developer from Poland.
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michalmarchewczyk&layout=compact&bg_color=50,00DCFA,0064C8&title_color=ffffff&text_color=ffffff&hide_border=true&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.michalmarchewczyk.vercel.app/api/top-langs/?username=michalmarchewczyk&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6&border_width=3&border_color=50,00DCFA,0064C8)](https://github.com/anuraghazra/github-readme-stats)
