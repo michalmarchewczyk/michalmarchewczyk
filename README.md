@@ -30,5 +30,5 @@ I'm Michał, a full-stack web developer from Poland.
 
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=Adobe%20XD&logoColor=white" height="24"/> <img src="https://img.shields.io/badge/blender%20-%23F5792A.svg?&style=for-the-badge&logo=blender&logoColor=white" height="24"/>
 
-
+\
 [![Top Langs](https://github-readme-stats.michalmarchewczyk.vercel.app/api/top-langs/?username=michalmarchewczyk&layout=compact&bg_color=000000&title_color=ffffff&text_color=ffffff&langs_count=6&border_width=3&border_color=50,00DCFA,0064C8)](https://github.com/anuraghazra/github-readme-stats)
